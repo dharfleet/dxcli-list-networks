@@ -6,3 +6,31 @@
 /package-lock.json
 /tmp
 node_modules
+
+
+# MAC OSX General
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# MAC OSX Icon must end with two \r
+Icon
+
+# MAC OSX Thumbnails
+._*
+
+# MAC OSX Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# MAC OSX Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
