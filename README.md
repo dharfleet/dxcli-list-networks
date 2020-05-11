@@ -1,8 +1,11 @@
 Install this plugin:
 
 At command line type:
+
 sfdx plugins:install https://https://github.com/dharfleet/dxcli-list-networks.git
+
 then:
+
 sfdx plugins:link $HOME/.local/share/sfdx/node_modules/dxp
 
 
