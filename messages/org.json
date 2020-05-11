@@ -1,0 +1,5 @@
+{
+  "commandDescription": "List Networks for the given Org",
+  "errorNoOrgResults": "No results found for the org '%s'.",
+  "communitiesNotEnabled": "Communities do not seem to be enabled in this org '%s'."  
+}
